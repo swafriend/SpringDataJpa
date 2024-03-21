@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: SpringDataJpaSample
+  datasource:
+    url: jdbc:oracle:thin:@//192.168.180.85:1521/PDBASP
+    username: maxis_dev
+    password: maxis_dev
